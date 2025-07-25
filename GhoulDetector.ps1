@@ -1,0 +1,1 @@
+& "$PSScriptRoot\Procmon64.exe" /LoadConfig "$PSScriptRoot\GhoulLogic.pmc"
