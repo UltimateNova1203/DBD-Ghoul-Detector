@@ -13,6 +13,8 @@ If you see a LOT of entries (such as 30-50), it is very likely a Ghoul.
 
 DC if you want, you have a short window, so I'd have this tool ready and Task Manager ready to end task if it's going off. Make sure to pause capturing outside of lobby countdown/loading screen, as this tool will eat up RAM otherwise as it captures everything your computer does.
 
+Alternatively, in an admin prompt powershell, you can run `Stop-Process -Name DeadByDaylight-Shipping-Win64` to kill the game. You could have this command queued up so when you see the files loaded rapidly, a quick enter will get you out.
+
 ==============================
 
 If you get an error similar to "File GhoulDetector.ps1 cannot be loaded. The file GhoulDetector.ps1 is not digitally signed." You can run the below (without the backtick ` symbols), dragging the GhoulDetector.ps1 file where it says to do it.
